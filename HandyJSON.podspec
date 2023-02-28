@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/5785153/HandyJSON'
+  s.homepage         = 'https://github.com/bengban/HandyJSON'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { '5785153' => '378204087@qq.com' }
-  s.source           = { :git => 'https://github.com/5785153/HandyJSON.git', :tag => s.version.to_s }
+  s.author           = { 'bengban' => '378204087@qq.com' }
+  s.source           = { :git => 'https://github.com/bengban/HandyJSON.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '10.0'
