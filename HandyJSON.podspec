@@ -7,9 +7,9 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'HandyJSON'
+  s.name             = 'FindHandyJSON'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of HandyJSON.'
+  s.summary          = 'A short description of FindHandyJSON.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
