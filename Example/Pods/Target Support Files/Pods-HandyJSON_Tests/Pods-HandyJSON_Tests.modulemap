@@ -1,0 +1,6 @@
+framework module Pods_HandyJSON_Tests {
+  umbrella header "Pods-HandyJSON_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
