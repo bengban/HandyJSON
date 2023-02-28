@@ -14,6 +14,8 @@
 		607FACDD1AFB9204008FA782 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 607FACDC1AFB9204008FA782 /* Images.xcassets */; };
 		607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 607FACDE1AFB9204008FA782 /* LaunchScreen.xib */; };
 		607FACEC1AFB9204008FA782 /* Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACEB1AFB9204008FA782 /* Tests.swift */; };
+		AF95863029AE512F0061F704 /* FindHandyJSON.podspec in Resources */ = {isa = PBXBuildFile; fileRef = AF95862F29AE512F0061F704 /* FindHandyJSON.podspec */; };
+		AF95863129AE512F0061F704 /* FindHandyJSON.podspec in Resources */ = {isa = PBXBuildFile; fileRef = AF95862F29AE512F0061F704 /* FindHandyJSON.podspec */; };
 		B51B6859A973D69C49125473 /* Pods_HandyJSON_Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 28DA103AAAF208F36D0DBD11 /* Pods_HandyJSON_Tests.framework */; };
 /* End PBXBuildFile section */
 
@@ -43,9 +45,9 @@
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		975AE64E423E4D34D953249E /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		9F7D08D91758CA24383D5262 /* Pods-HandyJSON_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HandyJSON_Tests.debug.xcconfig"; path = "Target Support Files/Pods-HandyJSON_Tests/Pods-HandyJSON_Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		AF95862F29AE512F0061F704 /* FindHandyJSON.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = FindHandyJSON.podspec; path = ../FindHandyJSON.podspec; sourceTree = "<group>"; };
 		B5995065F72C200427F4967F /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		BBBE13E929611623970FBDA4 /* Pods-HandyJSON_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HandyJSON_Example.release.xcconfig"; path = "Target Support Files/Pods-HandyJSON_Example/Pods-HandyJSON_Example.release.xcconfig"; sourceTree = "<group>"; };
-		EE79F412E9FAC4DD209C1B43 /* HandyJSON.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = HandyJSON.podspec; path = ../HandyJSON.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		FE79F788A414268307C9C63A /* Pods-HandyJSON_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HandyJSON_Example.debug.xcconfig"; path = "Target Support Files/Pods-HandyJSON_Example/Pods-HandyJSON_Example.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -141,7 +143,7 @@
 		607FACF51AFB993E008FA782 /* Podspec Metadata */ = {
 			isa = PBXGroup;
 			children = (
-				EE79F412E9FAC4DD209C1B43 /* HandyJSON.podspec */,
+				AF95862F29AE512F0061F704 /* FindHandyJSON.podspec */,
 				975AE64E423E4D34D953249E /* README.md */,
 				B5995065F72C200427F4967F /* LICENSE */,
 			);
@@ -246,6 +248,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AF95863029AE512F0061F704 /* FindHandyJSON.podspec in Resources */,
 				607FACDB1AFB9204008FA782 /* Main.storyboard in Resources */,
 				607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */,
 				607FACDD1AFB9204008FA782 /* Images.xcassets in Resources */,
@@ -256,6 +259,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AF95863129AE512F0061F704 /* FindHandyJSON.podspec in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
